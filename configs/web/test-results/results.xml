@@ -1,0 +1,11 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="17.895106">
+<testsuite name="regression/staff/superAdmins.test.ts" timestamp="2025-04-21T08:53:16.865Z" hostname="newdashboard" tests="1" failures="0" skipped="0" time="17.222" errors="0">
+<testcase name="[Staff] - Super Admins @regression › [WTC-0003] - should verify if user can view the list of All Super Admins" classname="regression/staff/superAdmins.test.ts" time="17.222">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|../../../test-results/regression-staff-superAdmi-4cf5b-he-list-of-All-Super-Admins-newdashboard/video.webm]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>

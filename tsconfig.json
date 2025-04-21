@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "target": "ES2022",
+        "module": "commonJS",
+        "moduleResolution": "Node",
+        "strict": true,
+        "checkJs": false,
+        "resolveJsonModule": true,
+        "esModuleInterop":true,
+        "strictPropertyInitialization": false,
+        "baseUrl": ".",
+        "paths": {
+            "@pages/*": ["tests/web/pages/*"],
+            "@fixtures/*": ["fixtures/*"],
+            "@testdata/*": ["tests/web/testdata/*"],
+            "@utils": ["utils/*"]
+        }
+    }
+}

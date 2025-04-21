@@ -1,0 +1,17 @@
+{
+  "authUrl": "https://auth.conpago.dev/",
+  "loginDetails": {
+    "username": "yanmin",
+    "password": "Conpago123"
+  },
+  "personalDetails": {
+    "firstname": "yan",
+    "lastname": "test",
+    "username": "yan",
+    "password": "Conpago123"
+  },
+  "superAdminAccount": {
+    "firstname": "Yan25501",
+    "lastname": "SuperAdmin"
+  }
+}
